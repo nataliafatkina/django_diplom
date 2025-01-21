@@ -1,6 +1,4 @@
-# django_diplom
-
-Сайт курсов разработан на FastAPI
+# Сайт курсов разработан на FastAPI
 
 Использовала:
 Все, что использовала, есть в [requirements.txt](requirements.txt)
